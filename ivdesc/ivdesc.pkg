@@ -1,5 +1,19 @@
-d 'DEA': Data envelopment analysis
+d 'ivdesc': Profiling compliers and non-compliers for instrumental variable analysis Use ivdesc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _eststo.ado
+f _eststo.hlp
+f coefplot.ado
+f coefplot.sthlp
+f estadd.ado
+f estadd.hlp
+f estout.ado
+f estout.hlp
+f estpost.ado
+f estpost.hlp
+f eststo.ado
+f eststo.hlp
+f esttab.ado
+f esttab.hlp
+f ivdesc.ado
+f ivdesc.sthlp
+f ivdesc_calc.ado
